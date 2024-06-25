@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\Desktop\\AppApiArchitecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA539CDA-0C21-4EB9-AEA5-2EB2F61802F6}|AppApiArchitecture\\AppApiArchitecture.csproj|c:\\users\\hp\\desktop\\appapiarchitecture\\appapiarchitecture\\controllers\\admin\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA539CDA-0C21-4EB9-AEA5-2EB2F61802F6}|AppApiArchitecture\\AppApiArchitecture.csproj|solutionrelative:appapiarchitecture\\controllers\\admin\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA539CDA-0C21-4EB9-AEA5-2EB2F61802F6}|AppApiArchitecture\\AppApiArchitecture.csproj|c:\\users\\hp\\desktop\\appapiarchitecture\\appapiarchitecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA539CDA-0C21-4EB9-AEA5-2EB2F61802F6}|AppApiArchitecture\\AppApiArchitecture.csproj|solutionrelative:appapiarchitecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCCE992-A797-4F0A-A420-69DCAA6D8C12}|Service\\Service.csproj|c:\\users\\hp\\desktop\\appapiarchitecture\\service\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCCE992-A797-4F0A-A420-69DCAA6D8C12}|Service\\Service.csproj|solutionrelative:service\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCCE992-A797-4F0A-A420-69DCAA6D8C12}|Service\\Service.csproj|c:\\users\\hp\\desktop\\appapiarchitecture\\service\\services\\countryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCCE992-A797-4F0A-A420-69DCAA6D8C12}|Service\\Service.csproj|solutionrelative:service\\services\\countryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCCE992-A797-4F0A-A420-69DCAA6D8C12}|Service\\Service.csproj|c:\\users\\hp\\desktop\\appapiarchitecture\\service\\services\\interfaces\\icountryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCCE992-A797-4F0A-A420-69DCAA6D8C12}|Service\\Service.csproj|solutionrelative:service\\services\\interfaces\\icountryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCCE992-A797-4F0A-A420-69DCAA6D8C12}|Service\\Service.csproj|c:\\users\\hp\\desktop\\appapiarchitecture\\service\\helpers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCCE992-A797-4F0A-A420-69DCAA6D8C12}|Service\\Service.csproj|solutionrelative:service\\helpers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CountryController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\AppApiArchitecture\\AppApiArchitecture\\Controllers\\Admin\\CountryController.cs",
+              "RelativeDocumentMoniker": "AppApiArchitecture\\Controllers\\Admin\\CountryController.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\AppApiArchitecture\\AppApiArchitecture\\Controllers\\Admin\\CountryController.cs",
+              "RelativeToolTip": "AppApiArchitecture\\Controllers\\Admin\\CountryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T00:30:53.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\AppApiArchitecture\\AppApiArchitecture\\Program.cs",
+              "RelativeDocumentMoniker": "AppApiArchitecture\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\AppApiArchitecture\\AppApiArchitecture\\Program.cs",
+              "RelativeToolTip": "AppApiArchitecture\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T00:27:19.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\AppApiArchitecture\\Service\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Service\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\AppApiArchitecture\\Service\\DependencyInjection.cs",
+              "RelativeToolTip": "Service\\DependencyInjection.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T00:26:09.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CountryService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\AppApiArchitecture\\Service\\Services\\CountryService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\CountryService.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\AppApiArchitecture\\Service\\Services\\CountryService.cs",
+              "RelativeToolTip": "Service\\Services\\CountryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T00:10:22.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICountryService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\AppApiArchitecture\\Service\\Services\\Interfaces\\ICountryService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\Interfaces\\ICountryService.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\AppApiArchitecture\\Service\\Services\\Interfaces\\ICountryService.cs",
+              "RelativeToolTip": "Service\\Services\\Interfaces\\ICountryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T00:05:43.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\AppApiArchitecture\\Service\\Helpers\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Service\\Helpers\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\AppApiArchitecture\\Service\\Helpers\\MappingProfile.cs",
+              "RelativeToolTip": "Service\\Helpers\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T23:59:30.187Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
